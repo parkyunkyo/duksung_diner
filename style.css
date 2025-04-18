@@ -1,0 +1,54 @@
+/* 기본 설정 */
+body {
+  background-color: #e0f7fa; /* 시원한 하늘색 */
+  color: #333;
+  margin: 0;
+  padding: 0;
+}
+
+/* 헤더 */
+header {
+  background-color: #b2ebf2; /* 연하늘색 */
+  text-align: center;
+  padding: 20px;
+}
+
+/* 메인 영역 */
+main {
+  padding: 20px;
+}
+
+/* 섹션 제목 */
+h2 {
+  color: #00796b; /* 청록 느낌 */
+}
+
+/* 테이블 */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+th, td {
+  border: 1px solid #80deea;
+  padding: 10px;
+  text-align: center;
+}
+
+tbody tr:hover {
+  background-color: #b2ebf2; /* 마우스 올렸을 때 */
+}
+
+img {
+  width: 120px;
+  border-radius: 10px;
+}
+
+/* 푸터 */
+footer {
+  background-color: #b2ebf2;
+  text-align: center;
+  padding: 10px;
+  margin-top: 30px;
+}
